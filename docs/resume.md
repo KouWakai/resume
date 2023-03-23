@@ -89,23 +89,23 @@
 コンピューターサイエンスとネットワークの基礎を活かして円滑な業務を行なっております。
 
 - **プロジェクト規模：**
-  - 1 人〜5,6 人規模でのスクラム開発
+- 1 人〜5,6 人規模でのスクラム開発
 - **プロジェクト詳細：**
 
-  - Vue.js での JamStack サイト 開発
-  - Go/Gin での API 開発
-  - Bolt フレームワークや Go を使った AWS への Slack アプリ実装
-  - BigQuery を使った社内データ分析基盤構築
-  - Python Selenium を使ったデータ自動収集、社内オペレーションの自動化
-  - OpenVPN サーバーの構築
-  - GAE への社内システムの DevOps 設定
-  - 社内システムのアーキテクチャ選考
+- Vue.js での JamStack サイト 開発
+- Go/Gin での API 開発
+- Bolt フレームワークや Go を使った AWS への Slack アプリ実装
+- BigQuery を使った社内データ分析基盤構築
+- Python Selenium を使ったデータ自動収集、社内オペレーションの自動化
+- OpenVPN サーバーの構築
+- GAE への社内システムの DevOps 設定
+- 社内システムのアーキテクチャ選考
 
 - **その他：**
-  - 開発チームの Docker 開発環境構築
-  - アジャイルの導入
-  - テストコードの導入・教育
-  - DevOps の概念の導入・教育
+- 開発チームの Docker 開発環境構築
+- アジャイルの導入
+- テストコードの導入・教育
+- DevOps の概念の導入・教育
 
 ### 株式会社ストラクト（2019/03~2021/06）
 
@@ -116,11 +116,11 @@ C++を使った組み込み機器の OS 開発を行いました。
 
 - **プロジェクト詳細：**
 
-  - C 言語を用いた組み込み機器の開発、テスト(Linux 環境)
-  - DevOps の設定、Gitlab のオンプレでの運用
+- C 言語を用いた組み込み機器の開発、テスト(Linux 環境)
+- DevOps の設定、Gitlab のオンプレでの運用
 
 - **良かった点**
-  - メモリーダンプによるデータ解析などでデータ型などのコンピューターサイエンスを深く学べました。この経験がのちに Go 言語を理解する上で非常に役に立ちました。
+- メモリーダンプによるデータ解析などでデータ型などのコンピューターサイエンスを深く学べました。この経験がのちに Go 言語を理解する上で非常に役に立ちました。
 
 ### 株式会社インフォメーションクリエーティブ（2016/04~2018/03）
 
@@ -129,9 +129,9 @@ C++を使った組み込み機器の OS 開発を行いました。
 
 - **プロジェクト詳細：**
 
-  - Cisoco、Yamaha ネットワーク機器のキッティング、現場設置、テスト
-  - ネットワークドキュメントの作成
-  - ネットワーク機器の運用保守
+- Cisoco、Yamaha ネットワーク機器のキッティング、現場設置、テスト
+- ネットワークドキュメントの作成
+- ネットワーク機器の運用保守
 
 ---
 
@@ -143,13 +143,15 @@ C++を使った組み込み機器の OS 開発を行いました。
 
 issues：
 
-[Handle non-integer Annotation border widths correctly (issue 14203) #14391](https://github.com/mozilla/pdf.js/pull/14391)
+[Handle non-integer Annotation border widths correctly (issue 14203)
+#14391](https://github.com/mozilla/pdf.js/pull/14391)
 
 pdf.js にて pdf 中の注釈の線が特定の条件で描画されないバグを修正。
 
 掲載：
 
-[Engineering Effectiveness Newsletter (January 2022 Edition)](https://discourse.mozilla.org/t/engineering-effectiveness-newsletter-january-2022-edition/92335)
+[Engineering Effectiveness Newsletter (January 2022
+Edition)](https://discourse.mozilla.org/t/engineering-effectiveness-newsletter-january-2022-edition/92335)
 
 **[・slack/go](https://github.com/slack-go/slack)**
 
@@ -166,6 +168,7 @@ discussion：
 
 flant/ovpn-admin を使って OpenVPN サーバーを構築した際にどうやって firewall を設定するかのアドバイスを行った。（具体的には GCE 上に構築し、GCP のファイアウォールが一番楽で簡単と伝えました。）
 
-[I made function that creates multiple users by usernames in csv #101](https://github.com/flant/ovpn-admin/discussions/101)
+[I made function that creates multiple users by usernames in csv
+#101](https://github.com/flant/ovpn-admin/discussions/101)
 
 flant/ovpn-admin の OpenVPN サーバー管理 UI(Vue.js)をカスタマイズし、csv から一括でユーザーを作成できるようにした。
