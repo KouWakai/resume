@@ -57,7 +57,6 @@
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Php-777B71.svg?logo=php&style=flat-square">
     <img src="https://img.shields.io/badge/-C%20language-bbbbbb.svg?logo=c&style=flat-square">
-    <img src="https://img.shields.io/badge/-C%20sharp-234235.svg?logo=c%20sharp&style=flat-square">
 </p>
 
 ### フレームワーク・その他
