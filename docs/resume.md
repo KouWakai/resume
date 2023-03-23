@@ -76,3 +76,37 @@
 
 ---
 
+## 業務外活動
+
+### OSS・個人開発活動
+
+**[・ mozilla/pdf.js](https://github.com/mozilla/pdf.js)**
+
+issues：
+
+[Handle non-integer Annotation border widths correctly (issue 14203) #14391](https://github.com/mozilla/pdf.js/pull/14391)
+
+pdf.js にて pdf 中の注釈の線が特定の条件で描画されないバグを修正。
+
+掲載：
+
+[Engineering Effectiveness Newsletter (January 2022 Edition)](https://discourse.mozilla.org/t/engineering-effectiveness-newsletter-january-2022-edition/92335)
+
+**[・slack/go](https://github.com/slack-go/slack)**
+
+issues：
+[Add an example of updating modal #1142](https://github.com/slack-go/slack/pull/1142)
+
+slack アプリにて go 言語を使ってモーダルの更新する際のサンプルを追加（プルリクエスト中）
+
+**[・flant/ovpn-admin](https://github.com/flant/ovpn-admin)**
+
+discussion：
+
+[How should I go about securing ovpn-admin? #100](https://github.com/flant/ovpn-admin/discussions/100)
+
+flant/ovpn-admin を使って OpenVPN サーバーを構築した際にどうやって firewall を設定するかのアドバイスを行った。（具体的には GCE 上に構築し、GCP のファイアウォールが一番楽で簡単と伝えました。）
+
+[I made function that creates multiple users by usernames in csv #101](https://github.com/flant/ovpn-admin/discussions/101)
+
+flant/ovpn-admin の OpenVPN サーバー管理 UI(Vue.js)をカスタマイズし、csv から一括でユーザーを作成できるようにした。
