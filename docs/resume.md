@@ -1,3 +1,16 @@
+## 各種アカウント
+
+<p>
+    <a href="https://github.com/KouWakai" target="_blank"><img alt="Github"
+            src="https://img.shields.io/badge/Kouwakai-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+    <a href="https://qiita.com/KouWakai" target="_blank"><img alt="Medium"
+            src="https://img.shields.io/badge/KouWakai-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+    <a href="https://zenn.dev/kouw" target="_blank"><img alt="Zenn"
+            src="https://img.shields.io/badge/KouWakai-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+</p>
+
+---
+
 ## 保有スキル
 
 - Python Selenium によるオペレーションの自動化
